@@ -1,3 +1,4 @@
+# Comment for rubocop
 class Comment < ApplicationRecord
   validates :content, presence: true
 
